@@ -8,6 +8,7 @@
 Computer Engineering graduate with hands-on experience in embedded systems, backend development, and simulation-based applications.
 
 I focus on learning by building projects and improving my software engineering fundamentals through practical implementation.
+
 ---
 
 ## 🧠 Interests
